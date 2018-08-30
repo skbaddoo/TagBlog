@@ -1,0 +1,15 @@
+current directory: /home/ganyobiniii/myprograms/rubyprograms/TagBlog/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/usr/bin/ruby2.5 -r ./siteconf20180830-24840-1gvflt8.rb extconf.rb
+creating Makefile
+
+current directory: /home/ganyobiniii/myprograms/rubyprograms/TagBlog/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/ganyobiniii/myprograms/rubyprograms/TagBlog/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/ganyobiniii/myprograms/rubyprograms/TagBlog/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20180830-24840-8sam3x
